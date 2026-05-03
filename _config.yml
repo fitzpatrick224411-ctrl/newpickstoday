@@ -1,0 +1,24 @@
+title: "SecurePicksToday"
+description: "Expert reviews and comparisons of VPNs, antivirus, and security software."
+baseurl: "/newpickstoday"
+url: "https://fitzpatrick224411-ctrl.github.io"
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Editorial Team"
+
+exclude:
+  - generate_article.sh
+  - push_site.sh
+  - Gemfile
+  - Gemfile.lock
