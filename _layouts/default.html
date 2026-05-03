@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% seo %}
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="/" class="site-title">{{ site.title }}</a>
+      <p class="tagline">{{ site.description }}</p>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/about">About &amp; Standards</a>
+        <a href="/privacy-policy">Privacy Policy</a>
+      </nav>
+    </div>
+  </header>
+  <div class="ftc-banner">
+    <div class="container">
+      <strong>Affiliate Disclosure:</strong> Some links on this site are affiliate links. If you click and buy, we earn a commission at no extra cost to you. This never influences our recommendations — we only feature products we genuinely recommend. <a href="/about">Read our editorial standards →</a>
+    </div>
+  </div>
+  <main class="container">
+    {{ content }}
+  </main>
+  <footer>
+    <div class="container">
+      <p>
+        <a href="/">Home</a> &middot;
+        <a href="/about">Editorial Standards</a> &middot;
+        <a href="/privacy-policy">Privacy Policy</a>
+      </p>
+      <p style="margin-top:10px;">Content on this site is for informational purposes only. Always verify current pricing and features directly with vendors before purchasing. Prices and product details change frequently.</p>
+    </div>
+  </footer>
+</body>
+</html>

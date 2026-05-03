@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article>
+  <header class="post-header">
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%B %d, %Y" }} &middot; {{ page.author }}</p>
+    {% if page.affiliate_disclaimer %}
+    <p class="disclaimer">⚠️ {{ page.affiliate_disclaimer }}</p>
+    {% endif %}
+  </header>
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>

@@ -1,0 +1,5 @@
+generation.log
+.topic_index
+_site/
+.jekyll-cache/
+*.swp

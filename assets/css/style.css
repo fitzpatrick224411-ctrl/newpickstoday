@@ -1,0 +1,25 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: Georgia, serif; font-size: 18px; line-height: 1.7; color: #222; background: #fff; }
+.container { max-width: 780px; margin: 0 auto; padding: 0 20px; }
+header { background: #1a1a2e; color: #fff; padding: 20px 0; margin-bottom: 40px; }
+.site-title { color: #e8d5b7; text-decoration: none; font-size: 1.6rem; font-weight: bold; }
+.tagline { color: #aaa; font-size: 0.9rem; margin-top: 4px; }
+h1 { font-size: 2rem; margin-bottom: 10px; }
+h2 { font-size: 1.5rem; margin: 30px 0 10px; }
+h3 { font-size: 1.2rem; margin: 24px 0 8px; }
+p { margin-bottom: 16px; }
+a { color: #0066cc; }
+a:hover { text-decoration: none; }
+.post-meta { color: #888; font-size: 0.85rem; margin-bottom: 24px; }
+.disclaimer { background: #fffbea; border-left: 4px solid #f0c040; padding: 10px 14px; font-size: 0.85rem; margin-bottom: 20px; }
+.post-list { list-style: none; }
+.post-list li { padding: 10px 0; border-bottom: 1px solid #eee; display: flex; justify-content: space-between; }
+.post-list .date { color: #888; font-size: 0.85rem; white-space: nowrap; margin-left: 10px; }
+.cta-box { background: #f0f7ff; border: 2px solid #0066cc; padding: 20px; border-radius: 6px; margin: 28px 0; }
+.cta-box a.btn { display: inline-block; background: #0066cc; color: #fff; padding: 12px 24px; border-radius: 4px; text-decoration: none; font-weight: bold; margin-top: 10px; }
+nav { margin-top: 10px; } nav a { color: #e8d5b7; margin-right: 16px; font-size: 0.9rem; text-decoration: none; } nav a:hover { text-decoration: underline; }
+.ftc-banner { background: #fffbea; border-bottom: 1px solid #e8d5b7; padding: 8px 0; font-size: 0.82rem; color: #555; }
+footer { margin-top: 60px; padding: 20px 0; border-top: 1px solid #eee; font-size: 0.8rem; color: #888; }
+table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+th, td { padding: 10px; border: 1px solid #ddd; text-align: left; }
+th { background: #f5f5f5; }
