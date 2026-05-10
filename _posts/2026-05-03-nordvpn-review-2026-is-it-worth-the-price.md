@@ -105,4 +105,4 @@ For the average user — someone who wants to protect their traffic on public Wi
 
 ---
 
-> **➡ [PRODUCT_AFFILIATE_LINK]** *(affiliate link — we may earn a commission)*
+> **➡ https://www.amazon.com/s?k=nordvpn&tag=securepicksto-20** *(affiliate link — we may earn a commission)*

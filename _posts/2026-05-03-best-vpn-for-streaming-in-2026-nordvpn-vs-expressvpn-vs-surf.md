@@ -118,4 +118,4 @@ Whatever you choose, use the free trial or money-back guarantee period to test i
 
 ---
 
-> **➡ [PRODUCT_AFFILIATE_LINK]** *(affiliate link — we may earn a commission)*
+> **➡ https://www.amazon.com/s?k=nordvpn&tag=securepicksto-20** *(affiliate link — we may earn a commission)*

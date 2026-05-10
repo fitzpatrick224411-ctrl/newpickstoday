@@ -101,4 +101,4 @@ If you can spend even $3–$5 a month, a reputable paid VPN from a provider like
 
 ---
 
-> **➡ [PRODUCT_AFFILIATE_LINK]** *(affiliate link — we may earn a commission)*
+> **➡ https://www.amazon.com/s?k=vpn+software&tag=securepicksto-20** *(affiliate link — we may earn a commission)*
