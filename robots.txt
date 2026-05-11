@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fitzpatrick224411-ctrl.github.io/newpickstoday/sitemap.xml

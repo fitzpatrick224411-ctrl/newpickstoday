@@ -12,4 +12,26 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+
+  <!-- Related Posts -->
+  {% assign related = site.posts | where_exp: "p", "p.url != page.url" | limit: 4 %}
+  {% if related.size > 0 %}
+  <div class="related-posts">
+    <h3>Related Reviews</h3>
+    <ul>
+    {% for p in related limit:4 %}
+      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  <!-- Social Share -->
+  <div class="share-box">
+    <p><strong>Found this helpful?</strong> Share it:</p>
+    <a href="https://www.reddit.com/submit?url={{ page.url | absolute_url | url_encode }}&title={{ page.title | url_encode }}" target="_blank" rel="noopener" class="share-btn reddit">Reddit</a>
+    <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | url_encode }}&text={{ page.title | url_encode }}" target="_blank" rel="noopener" class="share-btn twitter">Twitter/X</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url | url_encode }}" target="_blank" rel="noopener" class="share-btn linkedin">LinkedIn</a>
+    <a href="https://pinterest.com/pin/create/button/?url={{ page.url | absolute_url | url_encode }}&description={{ page.title | url_encode }}" target="_blank" rel="noopener" class="share-btn pinterest">Pinterest</a>
+  </div>
 </article>
