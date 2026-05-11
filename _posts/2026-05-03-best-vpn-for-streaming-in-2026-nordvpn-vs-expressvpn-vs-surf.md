@@ -118,4 +118,4 @@ Whatever you choose, use the free trial or money-back guarantee period to test i
 
 ---
 
-> **➡ https://www.amazon.com/s?k=nordvpn&tag=securepicksto-20** *(affiliate link — we may earn a commission)*
+> **➡ [Get Surfshark →](https://surfshark.com/deal)** *(affiliate link — we may earn a commission)*

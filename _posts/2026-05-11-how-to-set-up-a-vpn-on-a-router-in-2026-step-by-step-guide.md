@@ -154,4 +154,4 @@ The setup complexity and hardware requirements keep it from being a universal re
 
 ---
 
-> **➡ [PRODUCT_AFFILIATE_LINK]** *(affiliate link — we may earn a commission)*
+> **➡ [Get ExpressVPN →](https://www.expressvpn.com/order)** *(affiliate link — we may earn a commission)*

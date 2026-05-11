@@ -83,4 +83,4 @@ That said, it's not the right pick for everyone. If budget matters — and for m
 
 **Our specific recommendation:** If you're using a VPN primarily for streaming, travel, or general privacy on public Wi-Fi, and you want something that just works without friction, ExpressVPN is worth the price. Get the longest plan you're comfortable committing to — it dramatically changes the value equation. But if you're price-sensitive or deeply concerned about the Kape ownership history, NordVPN is the closest competitive alternative we'd recommend without hesitation.
 
-> **➡ https://www.amazon.com/s?k=expressvpn&tag=securepicksto-20** *(affiliate link — we may earn a commission)*
+> **➡ [Get ExpressVPN →](https://www.expressvpn.com/order)** *(affiliate link — we may earn a commission)*

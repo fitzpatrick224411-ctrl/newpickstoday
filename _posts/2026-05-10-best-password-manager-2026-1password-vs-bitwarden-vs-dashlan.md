@@ -140,4 +140,4 @@ Whatever you choose, using *any* reputable password manager is dramatically bett
 
 ---
 
-> **➡ https://www.amazon.com/s?k=1password+password+manager&tag=securepicksto-20** *(affiliate link — we may earn a commission)*
+> **➡ [Get 1Password →](https://1password.com/sign-up/)** *(affiliate link — we may earn a commission)*

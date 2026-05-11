@@ -111,4 +111,4 @@ For most users — especially those who travel, manage multiple household accoun
 
 ---
 
-> **➡ https://www.amazon.com/s?k=1password+password+manager&tag=securepicksto-20** *(affiliate link — we may earn a commission)*
+> **➡ [Get 1Password →](https://1password.com/sign-up/)** *(affiliate link — we may earn a commission)*

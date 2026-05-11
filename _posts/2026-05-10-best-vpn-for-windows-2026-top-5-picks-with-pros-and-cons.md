@@ -173,4 +173,4 @@ Whatever you choose, run a DNS leak test (tools like dnsleaktest.com or ipleak.n
 
 ---
 
-> **➡ https://www.amazon.com/s?k=vpn+software&tag=securepicksto-20** *(affiliate link — we may earn a commission)*
+> **➡ [Get ExpressVPN →](https://www.expressvpn.com/order)** *(affiliate link — we may earn a commission)*
