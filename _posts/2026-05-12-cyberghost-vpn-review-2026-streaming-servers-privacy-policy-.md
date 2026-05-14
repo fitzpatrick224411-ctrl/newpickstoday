@@ -123,4 +123,4 @@ CyberGhost is a solid choice for the right user — just go in with an honest un
 
 *Looking for a VPN that combines strong privacy credentials with competitive features? While you consider your options, here's a strong alternative worth checking out:*
 
-> **➡ [Get Surfshark →](https://surfshark.com/deal)** *(affiliate link — we may earn a commission)*
+> **➡ [Get CyberGhost →](https://www.cyberghostvpn.com/)** *(affiliate link — we may earn a commission)*

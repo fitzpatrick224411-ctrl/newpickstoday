@@ -140,4 +140,4 @@ Whatever you choose, using *any* reputable password manager is dramatically bett
 
 ---
 
-> **➡ [Get 1Password →](https://1password.com/sign-up/)** *(affiliate link — we may earn a commission)*
+> **➡ [Try 1Password Free →](https://1password.com/sign-up/)** *(affiliate link — we may earn a commission)*

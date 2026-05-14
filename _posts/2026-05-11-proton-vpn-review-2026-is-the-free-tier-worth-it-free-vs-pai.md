@@ -113,4 +113,4 @@ For most everyday privacy-conscious users, Proton VPN Plus offers a strong combi
 
 Looking for another strong VPN option with broader simultaneous connections and competitive pricing? Check out our top alternative pick:
 
-> **➡ [Get Surfshark →](https://surfshark.com/deal)** *(affiliate link — we may earn a commission)*
+> **➡ [Get ProtonVPN →](https://protonvpn.com/)** *(affiliate link — we may earn a commission)*

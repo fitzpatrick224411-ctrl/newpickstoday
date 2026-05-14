@@ -110,6 +110,6 @@ Either service will protect your traffic and keep your connection private. But f
 
 ---
 
-> **➡ [Get Surfshark →](https://surfshark.com/deal)** *(affiliate link — we may earn a commission)*
+> **➡ [Get ExpressVPN →](https://www.expressvpn.com/order)** *(affiliate link — we may earn a commission)*
 
 *Looking for a third option? Surfshark is another top-tier VPN worth comparing — it offers unlimited simultaneous connections and competitive pricing that often undercuts both NordVPN and ExpressVPN.*

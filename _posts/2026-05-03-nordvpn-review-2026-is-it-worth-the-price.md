@@ -105,4 +105,4 @@ For the average user — someone who wants to protect their traffic on public Wi
 
 ---
 
-> **➡ [Get Surfshark →](https://surfshark.com/deal)** *(affiliate link — we may earn a commission)*
+> **➡ [Get NordVPN →](https://nordvpn.com/)** *(affiliate link — we may earn a commission)*
