@@ -198,4 +198,4 @@ It is a secure, well-designed, beginner-friendly password manager with strong en
 
 **Recommendation:** Choose NordPass if you want a modern password manager that is easy to use and covers the security essentials without overwhelming you. Consider 1Password if you want the most polished all-around premium experience, Bitwarden if you prefer open-source value, or Keeper if your business needs deeper administrative controls.
 
-> **➡ [Get NordVPN →](https://nordvpn.com/)** *(affiliate link — we may earn a commission)*
+> **➡ [Try NordPass →](https://nordpass.com/)** *(affiliate link — we may earn a commission)*
